@@ -51,10 +51,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lybell-art/xnb-js.git"
+    "url": "git+https://github.com/rhapzoka/xnb-js.git"
   },
   "bugs": {
-    "url": "https://github.com/lybell-art/xnb-js/issues"
+    "url": "https://github.com/rhapzoka/xnb-js/issues"
   },
-  "homepage": "https://github.com/lybell-art/xnb-js#readme"
+  "homepage": "https://github.com/rhapzoka/xnb-js#readme"
 }
